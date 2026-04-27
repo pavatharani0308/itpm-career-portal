@@ -72,7 +72,25 @@ This system focuses on:
 
 ## 📸 Screenshots
 
-> Add your project screenshots here
 
-```bash
-![Homepage](./7.png)
+![Homepage](./home.png)
+
+
+![Dashboard](./1.png)
+
+
+![Jobs](./2.png)
+
+
+![Student](./3.png)
+
+
+![Company](./4.png)
+
+
+![Analytics](./5.png)
+
+
+![Chat](./6.png)
+
+
