@@ -75,4 +75,4 @@ This system focuses on:
 > Add your project screenshots here
 
 ```bash
-![Homepage](./Screenshots/7.png)
+![Homepage](./7.png)
